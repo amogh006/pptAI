@@ -9,6 +9,8 @@ aiofiles==23.2.1
 streamlit>=1.28.0
 websockets>=11.0.3
 pygame>=2.5.0
+openai
+
 
 # macOS Setup Instructions:
 # 1. Install LibreOffice: brew install --cask libreoffice
